@@ -4,4 +4,5 @@ A web page that produces random words and jokes, made with an API that translate
 ![MasterHead](https://i.hizliresim.com/2vosrgj.png
 )
 
-# Enjoyable Codings
+# Enjoyable Codings 😅
+
